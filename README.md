@@ -12,7 +12,7 @@ Need to work on:
   -Very dullllll :<, needs a splash of colour
   -Auto-update from remote addition of a record
   -Increase security (possible add 2FA)
-  -Ill think of things to add as time goes one
+  -Ill think of things to add as time goes on
   
 Overall it is one of my first programs so give it a try!! I reccommend installing XAMPP in order to run an Apache and MySQL local server.
 
