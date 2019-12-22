@@ -7,15 +7,13 @@ Admin Controls, Student record controls (Add, Delete, Find), Shows real-time dat
   
 Overall it is one of my first programs so give it a try!! I reccommend installing XAMPP in order to run an Apache and MySQL local server.
 
-||| IMPORTANT!!! |||
-Make sure to configure src/databaseconnection.java with your server configurations.
+**||| IMPORTANT!!! |||**
+Make sure to configure **src/databaseconnection.java** with your server configurations.
 I have included an export of the sql database used, just create a schema called "student" and import the student.sql file
 
-Initial email is: test@test.com
-Initial password is: test
+**Initial email is: test@test.com
+Initial password is: test**
 
 Change these once logged in.
-
-||||||||||||||||||||
 
 enjoy (:D
