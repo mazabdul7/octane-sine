@@ -16,6 +16,7 @@ import java.sql.SQLException;
  */
 public class databaseconnection {
     final static String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+    //change this according to your local server and change the database name to yours
     final static String DB_URL = "jdbc:mysql://localhost:3306/student";
     
     final static String USER = "root";
